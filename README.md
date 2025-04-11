@@ -1,10 +1,3 @@
-
-
-Depositar a versão funcional do projeto num drive ou no github, e indicar o link. Colocar todos arquivos necessários, e documentos.
-Elaborar um texto explicativo de como executar o código, bibliotecas necessárias, ambiente (colab ou jupyter), e outros requisitos; e descrever o procedimento detalhado para execução.
-
-Projeto criado para a disciplina de Processamento Digital de Imagens 2025.1 
-
 # Projeto da disciplina de Processamento Digital de Imagens 2025.1
 
 Este projeto realiza o processamento de imagens capturadas via webcam de textos, livros ou documentos físicos, com a finalidade de extrair o texto da imagem e gerar um arquivo digital nos formatos de .txt, .pdf, entre outros.
@@ -31,7 +24,7 @@ PDI/
 1. Acesse [Google Colab](https://colab.research.google.com/)
 2. Faça upload do arquivo `projeto.ipynb`
 3. Execute as células na ordem
-4. Capture a imagem pela webcam
+4. Capture a imagem de um texto/livro/documento físico pela webcam
 5. O sistema fará:
    - Pré-processamento da imagem
    - OCR (Tesseract em português)
