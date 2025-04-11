@@ -57,3 +57,8 @@ sudo apt install tesseract-ocr-por
 - **Tesseract OCR** – extração de texto
 - **LanguageTool** – correção ortográfica e gramatical
 - **Google Colab** – captura de imagem via webcam
+
+## 👉 Futuras modificações
+
+- **Novos formatos para salvar o texto extraído**, no momento o código salva somente em .txt, iremos aumentar as opções de salvamento.
+- **Input do usuário**, iremos deixar o código mais interativo com o usuário para que ele escolha o formato do arquivo que deseja salvar.
