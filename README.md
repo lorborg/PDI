@@ -29,6 +29,7 @@ PDI/
    - Pré-processamento da imagem
    - OCR (Tesseract em português)
    - Correção gramatical com LanguageTool
+6. Salvará o texto extraído no arquivo "texto_corrigido.txt" no drive usado
 
 ---
 
