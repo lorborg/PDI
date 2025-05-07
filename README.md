@@ -1,5 +1,9 @@
 # Projeto da disciplina de Processamento Digital de Imagens 2025.1
 
+Ana Luiza Ferreira Figueiredo, 11121015
+Lorrane Rocha Borges, 11202130033
+Luan Gomes Lowenstein, 11202020559
+
 Este projeto realiza o processamento de imagens capturadas via webcam de textos, livros ou documentos físicos, com a finalidade de extrair o texto da imagem e gerar um arquivo digital nos formatos de .txt, .pdf, entre outros.
 
 ---
